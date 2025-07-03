@@ -67,7 +67,35 @@ const audioFiles = {
          {
             title: "How do the Unwise Interpret the Quran",
             fileId: "1SVkMJ3iEeQe9jMucZjGloQKcn9_v2fy2"
-        }
+        },
+         {
+            title: "Deep Thinking",
+            fileId: "1IHDGjw0EoFfzMuFnDXo6V1RVwVHh_o5s"
+        },
+         {
+            title: "Ever Thought About the Truth?",
+            fileId: "1IBaTsW0igG6jLqrn2_ZlNQwrRMLNnHeP"
+        },
+         {
+            title: "Never Plead Ignorance",
+            fileId: "1IH0YbtPcPxWTFK8JmnHKyQ5cCFWF_3sK"
+        } ,
+         {
+            title: "Some Secrets of the Quran",
+            fileId: "1IC4AAjhh-6nMhA5pExf2hm3lDG0cB_L0"
+        } ,
+         {
+            title: "The Importance of the Concience in the Quran",
+            fileId: "1IRKFR_E4gX3Ya4eaOzZxKZEWfWsMg4IF"
+        } ,
+         {
+            title: "The Nightmare of Disbelief",
+            fileId: "1IPFmZn1lBXwuwAueIYSS3ijYIBaXtK0y"
+        } ,
+         {
+            title: "The Quran Leads the Way to Science",
+            fileId: "1IXTVJJ7By_heQKpkZ_JzGcoywIu-rGFG"
+        } 
         
     ]
 };
