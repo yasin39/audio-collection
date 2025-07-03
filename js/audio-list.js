@@ -23,7 +23,19 @@ const audioFiles = {
             title: "The Miracle of Birth",
             fileId: "1N0XZvn4vz6UlIJwFQk2SlkbPF-yYOYQO"
             
-        }
+        },
+        {
+            title: "The Collapse of Theory of Evolution",
+            fileId: "1oV5ZsKWKMgwMpq_m5UTlhAjVARG_bwH_"
+        },
+        {
+            title: "The Miracle in the Ear",
+            fileId: "1yXBCcy0glAygj0uR4bNnGDyuqW-C3U8E"
+        },
+        {
+            title: "The Miracle of Design in the Cell",
+            fileId: "1p6KH53UOQ_Ejb-5m9CUHEC-AfjSBWe88"
+        }      
     ]
 };
 
