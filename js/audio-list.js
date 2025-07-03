@@ -8,6 +8,18 @@ const audioFiles = {
         { 
             title: "Ölüm Kıyamet Cehennem", 
             fileId: "1YcFVtRXdKTvuKIG46CWthGBJ47omLUvv" 
+        },
+        { 
+            title: "Kuran Mucizeleri", 
+            fileId: "1Hzl_RfQImA6qNsMRH7mpPGWtmquRwlGQ" 
+        },
+        { 
+            title: "Derin Düşünmek", 
+            fileId: "1I-H2lvyHlIXjMg7NZWDRbuICU2flO-HT" 
+        },
+        { 
+            title: "Gerçeği Düşündünüz mü?", 
+            fileId: "1I9P2UUofG1d7dcQsNBl2GcHBPLodGtBK" 
         }
     ],
     english: [
