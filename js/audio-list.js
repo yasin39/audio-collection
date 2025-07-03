@@ -18,6 +18,11 @@ const audioFiles = {
         { 
             title: "The Miracle in the Ant", 
             fileId: "1VndN6r1hVeuvUEqF3a5DSDYkm-z6skVG" 
+        },
+        {
+            title: "The Miracle of Birth",
+            fileId: "1N0XZvn4vz6UlIJwFQk2SlkbPF-yYOYQO"
+            
         }
     ]
 };
