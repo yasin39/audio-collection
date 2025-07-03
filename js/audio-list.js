@@ -35,7 +35,40 @@ const audioFiles = {
         {
             title: "The Miracle of Design in the Cell",
             fileId: "1p6KH53UOQ_Ejb-5m9CUHEC-AfjSBWe88"
-        }      
+        },
+         {
+            title: "The Miracle in the Eye",
+            fileId: "1XkaN6JEvezAXFG2QE6PLasdFJLWZFVh8"
+        },
+         {
+            title: "The Miracle of the Honeybee",
+            fileId: "17zmrnTWsE0ZENYXO6g92muEPImWz6CW8"
+        },
+         {
+            title: "Before You Regret",
+            fileId: "1afqatIdMyfWduEsk7JRZWCwKMDM4rGH7"
+        },
+         {
+            title: "Miracles of the Quran",
+            fileId: "1p0dcrfCURDkVI9MNndH-WM0SjpGCPhR2"
+        },
+         {
+            title: "Timelessness and the Reality of Fate",
+            fileId: "1CK-AVe63rcYiYUWHmOVef4k5tJgfsQRl"
+        },
+         {
+            title: "Migration and Orientation in Animals",
+            fileId: "1K4YdNQDmG5NXxofU4FMKR4M7jhWWyDsr"
+        },
+         {
+            title: "Death Resurrection and Hell",
+            fileId: "1r0Uy2RaFLR19C1e_TPl9dwFKy_0I2qVH"
+        },
+         {
+            title: "How do the Unwise Interpret the Quran",
+            fileId: "1SVkMJ3iEeQe9jMucZjGloQKcn9_v2fy2"
+        }
+        
     ]
 };
 
